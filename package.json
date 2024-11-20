@@ -1,9 +1,9 @@
 {
   "name": "luaformatter",
-  "displayName": "luaformatter",
+  "displayName": "ltokenp luaformatter",
   "description": "luaformatter",
   "publisher": "jerry2mouse",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.95.0"
   },
