@@ -39,14 +39,16 @@ The configuration requires you to set the path to ltokenp. The path cannot end w
 
 * `luaformatter.path`: ltokenp可执行下程序所在目录，如: d:/fmt,
 
+The installation package includes the executable file ltokenp.exe for Windows systems and the corresponding executable ltokenp for Linux systems.
+
 安装程序带了ltokenp.exe（windows）和ltokenp（linux），fmtlcode.lua,设置`luaformatter.path`为安装路径
 
 windows:
-* `luaformatter.path`：C:\Users\您的用户名\.vscode\extensions\out
+* `luaformatter.path`：C:\Users\您的用户名\\.vscode\extensions\jerry2mouse.luaformatter-0.0.2\out
 
 ubuntu
 
-* `luaformatter.path`：home/xxxx/.vscode/extensions/jerry2mouse.luaformatter-0.0.1/out
+* `luaformatter.path`：home/xxxx/.vscode/extensions/jerry2mouse.luaformatter-0.0.2/out
 * 修改ltokenp属性，勾选“允许将文件作为程序执行”
 * Modify the properties of ltokenp，check 'Allow executing files as program'
 
